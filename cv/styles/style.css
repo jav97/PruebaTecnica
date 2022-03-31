@@ -3,28 +3,10 @@
     padding: 0;
 }
 
-#buttons {
-    width: 90%;
-    max-width: 800px;
-    margin: 30px auto;
-}
-
 .clear {
     clear: both;
 }
 
-#page-wrap {
-    width: 800px;
-    margin: 40px auto 60px;
-    background-color: white;
-}
-
-#pic {
-    float: right;
-    margin: 30px 40px 10px 30px;
-    border-radius: 20%;
-    padding: 0
-}
 
 h1 {
     margin: 0 0 16px 0;
@@ -52,6 +34,10 @@ h2 span {
     font-size: 16px;
     color: #999;
     font-weight: normal;
+}
+
+h4 {
+    color: rgba(62, 100, 136, 0.61);
 }
 
 p {
@@ -98,7 +84,7 @@ dt {
 
 dd {
     width: 600px;
-    float: right;
+    float: left;
 }
 
 dd.clear {
